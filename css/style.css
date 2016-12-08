@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.calen{
+	width: 600px;
+	height:auto;
+	margin:40px auto;
+}
+.sel{
+	text-align: center
+}
+td{
+	text-align: center;
+}
+table{
+	margin:0 auto;
+}
+.prevDay{
+	color:#999999;
+}
